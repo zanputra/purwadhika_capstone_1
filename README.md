@@ -43,7 +43,7 @@ This allows user to only see certain student(s)' data in Alpha Arbutin High 'Dat
 ![Display Certain Data Class](pix/display_class.png)
 
 ## 2. Insert Exam Result
-This menu allows user to to insert new data to the Alpha Arbutin High 'Database', insertion data has to be started by input a Student ID which then followed by inserting the student's data and the student's score. The email is auto generated in this part by this format : [first letter (dot) second word @aamail.com] (e.g. Name = Fauzan Putra; EMail = f.putra@aamail.com)
+This menu allows user to to insert new data to the Alpha Arbutin High 'Database', insertion data has to be started by input a Student ID which then followed by inserting the student's data and the student's score. The email is auto generated in this part by this format : [first letter (dot) second word @aamail.ac.id] (e.g. Name = Fauzan Putra; EMail = f.putra@aamail.ac.id)
 
 ![Input Data](pix/input_data.png)
 
