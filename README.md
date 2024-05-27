@@ -5,7 +5,7 @@
 
 This is my submission for Capstone Project in Module 1 of Data Science Online Class. In this module, we are focusing on python programming language, hence the capstone project is to build a simple CRUD (Create, Read, Update, Delete) program with collection data type as the data manipulation approach. In my case, the business case I'm dealing with is a program to create, read, update and delete data of Exam Score of Student in a Highschool (in my case a fictional Alpha Arbutin High). I believe this program can be a stepping stone for anyone (including myself) to be better in python, especially for Data Science.
 
-1. [Display Exam Results of The Students](#1-display-exam_result)
+1. [Display Exam Results of The Students](#1-display-exam-result)
 2. [Insert Exam Results of The Students](#2-insert-exam-result)
 3. [Alter Exam Results of The Students](#3-alter-exam-result)
 4. [Delete Exam Results of The Students](#4-delete-exam-result)
