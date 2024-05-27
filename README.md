@@ -14,17 +14,17 @@ In the program, there are multiple functionalities of CRUD, which will be explai
 5. [Quit Program](#5-quit-program)
 
 ## 1. Display Exam Result
-In this menu, there are two options, and one option to go back.
+In this menu, user is allowed to choose between two options to display the data, and one option to go back to menu.
 
 ![Display Opt](pix/display_opt.png)
 
 ### Display Exam Score of All Student
-This menu will display every students' data in Alpha Arbutin High 'Database' in a form of table. The table consists of Student's Data such as ID, NAME, GENDER, CLASS and EMAIL and also Student's Score of each subjects such as STATISTICS, OOP and BIOLOGY.
+This menu allows user to see the whole students' data in Alpha Arbutin High 'Database' in a form of a table. The table consists of Student's Data such as ID, NAME, GENDER, CLASS and EMAIL and also Student's Score of each subjects such as STATISTICS, OOP and BIOLOGY.
 
 ![Display All Data](pix/display_all.png)
 
 ### Display Exam Score of Certain Student
-This menu will display certain student(s)' data in Alpha Arbutin High 'Database' in a for of table, based on the user's selecton. User is allowed to choose which parameter to group the data of the student, be it based on single Student ID, Gender, or Class. For this, the menu will show another menu that allows user to choose parameter.
+This allows user to only see certain student(s)' data in Alpha Arbutin High 'Database' in a form of table, based on the user's selecton. User is allowed to choose which parameter as a base to group the student's data, be it based on single Student ID, Gender, or Class.
 
 #### Display Exam Score option
 
@@ -51,11 +51,11 @@ This menu allows user to to insert new data to the Alpha Arbutin High 'Database'
 
 ![Alter Data](pix/alter_data.png)
 
-This menu allows user to alter a single data of Alpha Arbutin High 'Database', altering data has to be started by input a Student ID, user then will be given option to alter student's data or student's exam score. The student data option will only allow user to alter student's ID, NAME, GENDER, or CLASS. In altering mode, since the EMail is auto-generated, it is auto altered as well, by following the name. so if the name is altered, then the email is altered as well.
+This menu allows user to alter a single data of Alpha Arbutin High 'Database'. To alter a data, user is obligated to input a Student ID first, which then the program will search the respective data in the whole Alpha Arbutin High 'Database' for the user to alter student's data or student's exam score. The [student data] option will only allow user to alter student's ID, NAME, GENDER, or CLASS. In altering mode, since the EMAIL is auto-generated, it is automatically altered as well, by following the NAME. so if the name is altered, then the email is altered as well.
 
 ![Alter Data Student Data](pix/alter_studData.png)
 
-On the other hand, The student score option will only allow user to alter one student's subject exam score, which are STATISTICS, OOP, or BIOLOGY
+On the other hand, The [student score] option will only allow user to alter one student's subject exam score, which are STATISTICS, OOP, or BIOLOGY
 
 ![Alter Data Student Data](pix/alter_studScore.png)
 
